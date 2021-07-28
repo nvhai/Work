@@ -1,0 +1,16 @@
+P 193.135.9.164 
+User: dev 
+Password: Outfitters-Test123#
+
+working directory ~/httpdocs
+
+alias php='/opt/plesk/php/7.2/bin/php -d memory_limit=-1'
+alias composer='/opt/plesk/php/7.2/bin/php -d memory_limit=-1  /usr/lib/plesk-9.0/composer.phar'
+
+https://dev.hammock-outlet.eu/hammock2admin/
+user support
+Pw Support54321#
+
+amasty_groupcat_rule amasty_groupcat_product masty_groupcat_customer
+
+

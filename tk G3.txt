@@ -1,0 +1,114 @@
+jira: http://cyclethis.com:8080/
+
+
+tk G3
+aht_hainv2
+ Hui68YnxA
+ssh G3
+g3s.arrowhitech.net
+port 21198
+user: ahtg3
+admin: UHaK&989
+
+ahtg4/ OAID886
+new G3:
+Server 71,72 (71, 72 la version PHP cua server do)
+Host: 203.162.13.145 => 125.212.229.33
+Acc: aht_g3/@htG3678
+Port:
+72: 22222
+71: 33333
+
+74 thì ssh qua 222.252.30.29:14022
+74: 9999
+
+
+http://g0a.arrowhitech.net/admindb/
+
+http://74.arrowhitech.net/.db/
+ahtdb/aht@db999
+
+https://74.arrowhitech.net/admindb
+admin/admin2020
+
+
+Server 73
+IP: 125.212.229.33
+Port: 8022
+Tk User: aht_g3/AHT@#g3$2021
+
+ssh-keygen
+vao C:\Users\NANI\.ssh mo file id_rsa.pub
+copy ssh-rsa  
+vao
+https://bitbucket.org/account/user/phongnt/ssh-keys/
+click Add key paste vao
+
+user: apache
+admin: @htadmin2016
+/aht/www/g3/
+
+jara
+http://g0s.arrowhitech.net:8080
+aht_hainv2
+hainv1804
+
+https://bitbucket.org/
+phongnt@arrowhitech.com
+admin1234
+
+https://id.atlassian.com/login
+peter@convertdigital.com.au
+peteraht1234
+
+php bin/magento setup:upgrade
+rm -rf var/*; rm -rf pub/static/*; rm -rf generated/*
+
+rm -rf var/*; rm -rf pub/static/frontend/*; rm -rf generated/*
+
+php bin/magento setup:static-content:deploy -f en_US en_AU de_DE da_DK
+
+php bin/magento setup:static-content:deploy --area frontend  --theme AdornCosmetics/default
+
+
+chmod -R 777 var/*; chmod -R 777 pub/static/*; chmod -R 777 generated/*
+
+php -dmemory_limit=6G bin/magento setup:upgrade
+php -dmemory_limit=6G bin/magento setup:static-content:deploy -f en_US en_AU da_DK
+
+php -d memory_limit=6G /usr/local/bin/composer
+
+COMPOSER_MEMORY_LIMIT=-1 composer update
+
+php bin/magento admin:user:create --admin-user='devadmin' --admin-password='admin123' --admin-email='admin@gmail.com' --admin-firstname='admin' --admin-lastname='admin'
+
+
+
+
+b?t dev.
+có 3 ch? d?: Default, Developer,Production
+php bin/magento deploy:mode:set developer
+
+
+update version magento
+composer update magento/magento-composer-installer
+composer require magento/product-community-edition 2.0.2 --no-update
+composer update
+
+crontab
+php bin/magento cron:run
+php update/cron.php
+php bin/magento setup:cron:run
+
+php magento setup:di:compile
+php magento indexer:reindex
+
+-install magento 
+   + php bin/magento setup:install --base-url="http://hainv.dev/magento213" --db-host="localhost" --db-name="hainv_magento213" --db-user="hainv" --db-password="hainv123" --admin-firstname="Hai" --admin-lastname="NV" --admin-email="admin@gmail.com" --admin-user="nvhai" --admin-password="a123456" --language="en_US" --currency="USD" --timezone="America/Chicago" --use-rewrites="1" --backend-frontname="admin"
+L?i nh?n CSS
+php bin/magento setup:static-content:deploy
+
+
+DELETE FROM `setup_module` WHERE `setup_module`.`module` = 'Universalstore_Popularity'
+
+Do you want to store credentials for repo.magento.com in C:/Users/oanhn/AppData/Roaming/Composer/auth.json
