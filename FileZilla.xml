@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<FileZilla3 version="3.54.1" platform="windows">
+<FileZilla3 version="3.46.3" platform="*nix">
 	<Servers>
 		<Server>
 			<Host>125.212.229.33</Host>
@@ -9,9 +9,16 @@
 			<User>aht_g3</User>
 			<Pass encoding="base64">QGh0RzM2Nzg=</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>72.arrowhitech.net</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -23,10 +30,16 @@
 			<User>g3ftp</User>
 			<Pass encoding="base64">ZzNmdHBAZG1pbjEyMw==</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
 			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>72FTP</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -38,9 +51,37 @@
 			<User>aht_g3</User>
 			<Pass encoding="base64">QUhUQCNnMyQyMDIx</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>73.arrowhitech.net</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>172.16.0.40</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>g3</User>
+			<Pass encoding="base64">QGh0RzM2Nzg=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>74.arrowhitech.net</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -52,9 +93,16 @@
 			<User>aht_g3</User>
 			<Pass encoding="base64">QGh0RzM2Nzg=</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>AHT s72</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -66,9 +114,16 @@
 			<User>carricktestryco</User>
 			<Pass encoding="base64">d3lzUXRlalpyZ1NQUms4bnJp</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>Carick</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -80,23 +135,16 @@
 			<User>carricktestryco</User>
 			<Pass encoding="base64">OClEektSL3F5OypdNEFBQQ==</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>Carrick</Name>
-			<SyncBrowsing>0</SyncBrowsing>
-			<DirectoryComparison>0</DirectoryComparison>
-		</Server>
-		<Server>
-			<Host>185.217.40.183</Host>
-			<Port>2020</Port>
-			<Protocol>1</Protocol>
-			<Type>0</Type>
-			<User>carricktestryco</User>
-			<Pass encoding="base64">OClEektSL3F5OypdNEFBQQ==</Pass>
-			<Logontype>1</Logontype>
-			<EncodingType>Auto</EncodingType>
-			<BypassProxy>0</BypassProxy>
-			<Name>carrick_live</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -106,39 +154,18 @@
 			<Protocol>1</Protocol>
 			<Type>0</Type>
 			<User>dev</User>
-			<Pass encoding="base64">T3V0Zml0dGVycy1UZXN0MTIzIw==</Pass>
+			<Pass encoding="base64">MnczIW9AODQ3bFFabGFS</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>Christoph OUT</Name>
-			<SyncBrowsing>0</SyncBrowsing>
-			<DirectoryComparison>0</DirectoryComparison>
-		</Server>
-		<Server>
-			<Host>52.47.36.207</Host>
-			<Port>22</Port>
-			<Protocol>1</Protocol>
-			<Type>0</Type>
-			<User>root</User>
-			<Pass encoding="base64">Q0NMTFBQQEAjIzIxMjFAQCMjMjFAIzIx</Pass>
-			<Logontype>1</Logontype>
-			<EncodingType>Auto</EncodingType>
-			<BypassProxy>0</BypassProxy>
-			<Name>clpcolombia.co</Name>
-			<SyncBrowsing>0</SyncBrowsing>
-			<DirectoryComparison>0</DirectoryComparison>
-		</Server>
-		<Server>
-			<Host>52.47.36.207</Host>
-			<Port>22</Port>
-			<Protocol>1</Protocol>
-			<Type>0</Type>
-			<User>root</User>
-			<Pass encoding="base64">Q0NMTFBQQEAjIzIxMjFAQCMjMjFAIzIx</Pass>
-			<Logontype>1</Logontype>
-			<EncodingType>Auto</EncodingType>
-			<BypassProxy>0</BypassProxy>
-			<Name>clpcolombia.co 2</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -148,11 +175,18 @@
 			<Protocol>1</Protocol>
 			<Type>0</Type>
 			<User>www</User>
-			<Keyfile>C:\Users\oanhn\Downloads\Cd2_new.ppk</Keyfile>
+			<Keyfile>/home/hainv/Work/CDSD/convert-magento2.ppk</Keyfile>
 			<Logontype>5</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>Convert New</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -162,10 +196,18 @@
 			<Protocol>1</Protocol>
 			<Type>0</Type>
 			<User>www</User>
-			<Logontype>3</Logontype>
+			<Keyfile>/home/hainv/Work/CDSD/convert-magento2.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>Convert SV3</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -175,26 +217,60 @@
 			<Protocol>1</Protocol>
 			<Type>0</Type>
 			<User>www</User>
-			<Keyfile>E:\Work\CDSD\Cd2_new_201.ppk</Keyfile>
+			<Keyfile>/home/hainv/Work/CDSD/Cd2_new_201.ppk</Keyfile>
 			<Logontype>5</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>Convert_New_201</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
 		<Server>
-			<Host>209.126.28.67</Host>
-			<Port>21</Port>
-			<Protocol>0</Protocol>
+			<Host>13.55.79.0</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
 			<Type>0</Type>
-			<User>ftp@convoy-supply-nexcess.developmentwebsite.ca</User>
-			<Pass encoding="base64">UmVmaWxsU2N1bGxWZWVyZWRXaWRlcjky</Pass>
-			<Logontype>1</Logontype>
+			<User>ubuntu</User>
+			<Keyfile>/home/hainv/Work/DCO/chemistoutlet.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
 			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
-			<Name>convoysu</Name>
+			<Name>DCO_LIVE</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>13.238.84.158</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ubuntu</User>
+			<Keyfile>/home/hainv/Work/DCO/chemistoutlet.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>DCO_STAGING</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -204,10 +280,18 @@
 			<Protocol>1</Protocol>
 			<Type>0</Type>
 			<User>ubuntu</User>
-			<Logontype>3</Logontype>
+			<Keyfile>/home/hainv/Work/CDSD/convert-magento2.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>DEV Convert M2</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -219,9 +303,16 @@
 			<User>magentotest</User>
 			<Pass encoding="base64">TWFnZW50b3Rlc3QxMjMj</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>ETAS</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -233,9 +324,16 @@
 			<User>master_tpsggkgmmm</User>
 			<Pass encoding="base64">ckg5UUNxVFo=</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>ETAS-Scraper</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -247,10 +345,16 @@
 			<User>aht_ducdbv</User>
 			<Pass encoding="base64">S0xEOTcw</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
 			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>FTP_G3a</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -262,9 +366,16 @@
 			<User>ahtg3</User>
 			<Pass encoding="base64">T0FEUzc4OQ==</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>G0.arrowhitech.vn</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -276,39 +387,16 @@
 			<User>ahtg1</User>
 			<Pass encoding="base64">WUlXRVI4OTc=</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>G1</Name>
-			<SyncBrowsing>0</SyncBrowsing>
-			<DirectoryComparison>0</DirectoryComparison>
-		</Server>
-		<Server>
-			<Host>g3.arrowhitech.net</Host>
-			<Port>21</Port>
-			<Protocol>0</Protocol>
-			<Type>0</Type>
-			<User>aht_hainv2</User>
-			<Pass encoding="base64">SHVpNjhZbnhB</Pass>
-			<Logontype>1</Logontype>
-			<PasvMode>MODE_DEFAULT</PasvMode>
-			<EncodingType>Auto</EncodingType>
-			<BypassProxy>0</BypassProxy>
-			<Name>g3.arrowhitech.net</Name>
-			<SyncBrowsing>0</SyncBrowsing>
-			<DirectoryComparison>0</DirectoryComparison>
-		</Server>
-		<Server>
-			<Host>g3a.arrowhitech.net</Host>
-			<Port>21</Port>
-			<Protocol>0</Protocol>
-			<Type>0</Type>
-			<User>ahtg3</User>
-			<Pass encoding="base64">VUhhSyY5ODk=</Pass>
-			<Logontype>1</Logontype>
-			<PasvMode>MODE_DEFAULT</PasvMode>
-			<EncodingType>Auto</EncodingType>
-			<BypassProxy>0</BypassProxy>
-			<Name>g3a.arrowhitech.net</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -320,25 +408,16 @@
 			<User>aht_hainv2</User>
 			<Pass encoding="base64">SHVpNjhZbnhB</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
 			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>G3S</Name>
-			<SyncBrowsing>0</SyncBrowsing>
-			<DirectoryComparison>0</DirectoryComparison>
-		</Server>
-		<Server>
-			<Host>g3s.arrowhitech.net</Host>
-			<Port>21198</Port>
-			<Protocol>1</Protocol>
-			<Type>0</Type>
-			<User>ahtg3</User>
-			<Pass encoding="base64">VUhhSyY5ODk=</Pass>
-			<Logontype>1</Logontype>
-			<EncodingType>Auto</EncodingType>
-			<BypassProxy>0</BypassProxy>
-			<Name>g3s.arrowhitech.net</Name>
-			<Comments>HIE&amp;910</Comments>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -350,10 +429,163 @@
 			<User>johnpreston</User>
 			<Pass encoding="base64">bl4yU1xVe24zZkBMSzU7fg==</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
 			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>JohnPreston</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>cloudhost-3526352.us-west-1.nxcli.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp@ccbf226bbf.nxcli.net</User>
+			<Pass encoding="base64">SGlnaHNTYWxhbWlXb2JibHlHbHVlZA==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Joto</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>3f338f3648.nxcli.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>a62ad4ab_1</User>
+			<Pass encoding="base64">QmlzaG9wTG9jaHNQcmllc3RTZWFycw==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>MetricStorage</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>cloudhost-3526352.us-west-1.nxcli.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp@ccbf226bbf.nxcli.net</User>
+			<Pass encoding="base64">SGlnaHNTYWxhbWlXb2JibHlHbHVlZA==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Nex</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>cloudhost-3526352.us-west-1.nxcli.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp@ccbf226bbf.nxcli.net</User>
+			<Pass encoding="base64">SGlnaHNTYWxhbWlXb2JibHlHbHVlZA==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Nex 2</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>cloudhost-4238191.us-midwest-2.nxcli.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp@8bb43a768e.nxcli.net</User>
+			<Pass encoding="base64">SGlnaHNTYWxhbWlXb2JibHlHbHVlZA==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Nurse</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>cloudhost-3526352.us-west-1.nxcli.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>nursenextdoor@15786b7ab8.nxcli.net</User>
+			<Pass encoding="base64">VGFtcFRvcnJpZEJhc3RlZEZpcm1lcg==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Nurse Next Door</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>104.248.22.240</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>vietnam</User>
+			<Pass encoding="base64">VmlldG5hbTEyMyM=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>OUT_NEW</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -365,9 +597,205 @@
 			<User>root</User>
 			<Pass encoding="base64">ZFZOd2NXOVVNbFlwS0Rjd1FVbz0=</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>VWC</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>3f338f3648.nxcli.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>a62ad4ab_1</User>
+			<Pass encoding="base64">SGVlbEZpc2hlckxpdmVMdW1w</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>WEDDINGSTAR</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>185.217.40.183</Host>
+			<Port>2020</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>carricktestryco</User>
+			<Pass encoding="base64">OClEektSL3F5OypdNEFBQQ==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>carrick_live</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>52.47.36.207</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">Q0NMTFBQQEAjIzIxMjFAQCMjMjFAIzIx</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>clpcolombia.co</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>52.47.36.207</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">Q0NMTFBQQEAjIzIxMjFAQCMjMjFAIzIx</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>clpcolombia.co 2</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>209.126.28.67</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp@convoy-supply-nexcess.developmentwebsite.ca</User>
+			<Pass encoding="base64">UmVmaWxsU2N1bGxWZWVyZWRXaWRlcjky</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>convoysu</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>g3.arrowhitech.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>aht_hainv2</User>
+			<Pass encoding="base64">SHVpNjhZbnhB</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>g3.arrowhitech.net</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>g3a.arrowhitech.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ahtg3</User>
+			<Pass encoding="base64">VUhhSyY5ODk=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>g3a.arrowhitech.net</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>g3s.arrowhitech.net</Host>
+			<Port>21198</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>ahtg3</User>
+			<Pass encoding="base64">VUhhSyY5ODk=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>g3s.arrowhitech.net</Name>
+			<Comments>HIE&amp;910</Comments>
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>172.16.0.40</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>g3</User>
+			<Pass encoding="base64">QGh0RzM2Nzg=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>sever74</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -379,9 +807,16 @@
 			<User>root</User>
 			<Pass encoding="base64">dVNwcW9UMlYpKDcwQUo=</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>vwcentral.com.au</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -393,10 +828,16 @@
 			<User>support-prod</User>
 			<Pass encoding="base64">UmVmYWt0b3IyMDE4</Pass>
 			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
 			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
 			<Name>watafun.eu</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
 			<SyncBrowsing>0</SyncBrowsing>
 			<DirectoryComparison>0</DirectoryComparison>
 		</Server>
@@ -416,6 +857,8 @@
 		<Setting name="Timeout">20</Setting>
 		<Setting name="Logging Debug Level">0</Setting>
 		<Setting name="Logging Raw Listing">0</Setting>
+		<Setting name="fzsftp executable" />
+		<Setting name="fzstorj executable" />
 		<Setting name="Allow transfermode fallback">1</Setting>
 		<Setting name="Reconnect count">2</Setting>
 		<Setting name="Reconnect delay">5</Setting>
@@ -434,23 +877,24 @@
 		<Setting name="FTP Proxy user" />
 		<Setting name="FTP Proxy password" />
 		<Setting name="FTP Proxy login sequence" />
+		<Setting name="SFTP keyfiles" />
 		<Setting name="SFTP compression">0</Setting>
 		<Setting name="Proxy type">0</Setting>
 		<Setting name="Proxy host" />
 		<Setting name="Proxy port">0</Setting>
 		<Setting name="Proxy user" />
 		<Setting name="Proxy password" />
-		<Setting name="Logging file" platform="win" />
+		<Setting name="Logging file" />
 		<Setting name="Logging filesize limit">10</Setting>
-		<Setting name="Size format">0</Setting>
+		<Setting name="Logging show detailed logs">0</Setting>
+		<Setting name="Size format">3</Setting>
 		<Setting name="Size thousands separator">1</Setting>
 		<Setting name="Size decimal places">1</Setting>
 		<Setting name="TCP Keepalive Interval">15</Setting>
 		<Setting name="Cache TTL">600</Setting>
-		<Setting name="Kiosk mode">0</Setting>
-		<Setting name="Cache directory" platform="win" />
 		<Setting name="Number of Transfers">2</Setting>
 		<Setting name="Ascii Binary mode">0</Setting>
+		<Setting name="Auto Ascii files">am|asp|bat|c|cfm|cgi|conf|cpp|css|dhtml|diz|h|hpp|htm|html|in|inc|java|js|jsp|lua|m4|mak|md5|nfo|nsi|pas|patch|pem|php|phtml|pl|po|py|qmail|sh|sha1|sha256|sha512|shtml|sql|svg|tcl|tpl|txt|vbs|xhtml|xml|xrc</Setting>
 		<Setting name="Auto Ascii no extension">1</Setting>
 		<Setting name="Auto Ascii dotfiles">1</Setting>
 		<Setting name="Language Code" />
@@ -458,25 +902,52 @@
 		<Setting name="Concurrent upload limit">0</Setting>
 		<Setting name="Update Check">1</Setting>
 		<Setting name="Update Check Interval">7</Setting>
+		<Setting name="Last automatic update check" />
+		<Setting name="Last automatic update version" />
+		<Setting name="Update Check New Version" />
 		<Setting name="Update Check Check Beta">0</Setting>
 		<Setting name="Show debug menu">0</Setting>
 		<Setting name="File exists action download">0</Setting>
 		<Setting name="File exists action upload">0</Setting>
 		<Setting name="Allow ascii resume">0</Setting>
+		<Setting name="Greeting version">3.46.3</Setting>
+		<Setting name="Greeting resources" />
+		<Setting name="Onetime Dialogs">00011</Setting>
 		<Setting name="Show Tree Local">1</Setting>
 		<Setting name="Show Tree Remote">1</Setting>
 		<Setting name="File Pane Layout">0</Setting>
 		<Setting name="File Pane Swap">0</Setting>
 		<Setting name="Filelist directory sort">0</Setting>
-		<Setting name="Filelist name sort">0</Setting>
+		<Setting name="Filelist name sort">1</Setting>
 		<Setting name="Queue successful autoclear">0</Setting>
+		<Setting name="Queue column widths">180 60 180 80 60 150</Setting>
+		<Setting name="Local filelist colwidths">409 80 120 120</Setting>
+		<Setting name="Remote filelist colwidths">548 166 108 187 80 207</Setting>
+		<Setting name="Window position and size">1 1889 146 1200 824 </Setting>
+		<Setting name="Splitter positions (v2)">50 -150 335112059 231 220 500000000</Setting>
+		<Setting name="Local filelist sortorder">0 0</Setting>
+		<Setting name="Remote filelist sortorder">0 4</Setting>
+		<Setting name="Time Format">0</Setting>
+		<Setting name="Date Format">0</Setting>
 		<Setting name="Show message log">1</Setting>
 		<Setting name="Show queue">1</Setting>
+		<Setting name="Default editor">2/usr/local/bin/phstorm</Setting>
+		<Setting name="Always use default editor">0</Setting>
+		<Setting name="Inherit system associations">1</Setting>
+		<Setting name="Custom file associations">php /usr/bin/gedit
+json /usr/bin/gedit
+. /usr/bin/gedit</Setting>
 		<Setting name="Comparison mode">1</Setting>
 		<Setting name="Comparison threshold">1</Setting>
+		<Setting name="Site Manager position">0 2454 128 898 714 </Setting>
 		<Setting name="Icon theme">default</Setting>
 		<Setting name="Icon scale">125</Setting>
 		<Setting name="Timestamp in message log">0</Setting>
+		<Setting name="Sitemanager last selected">0/DCO_LIVE</Setting>
+		<Setting name="Local filelist shown columns">1111</Setting>
+		<Setting name="Remote filelist shown columns">111111</Setting>
+		<Setting name="Local filelist column order">0,1,2,3</Setting>
+		<Setting name="Remote filelist column order">0,1,2,3,4,5</Setting>
 		<Setting name="Filelist status bar">1</Setting>
 		<Setting name="Filter toggle state">0</Setting>
 		<Setting name="Show quickconnect bar">1</Setting>
@@ -487,6 +958,7 @@
 		<Setting name="Search column widths" />
 		<Setting name="Search column shown" />
 		<Setting name="Search column order" />
+		<Setting name="Search window size" />
 		<Setting name="Comparison hide identical">0</Setting>
 		<Setting name="Search sort order" />
 		<Setting name="Edit track local">1</Setting>
@@ -500,65 +972,57 @@
 		<Setting name="Toolbar hidden">0</Setting>
 		<Setting name="Strip VMS revisions">0</Setting>
 		<Setting name="Startup action">0</Setting>
+		<Setting name="Prompt password save">0</Setting>
+		<Setting name="Persistent Choices">1</Setting>
 		<Setting name="Queue completion action">1</Setting>
 		<Setting name="Queue completion command" />
 		<Setting name="Drag and Drop disabled">0</Setting>
 		<Setting name="Disable update footer">0</Setting>
 		<Setting name="Master password encryptor" />
-		<Setting name="Prompt password save">0</Setting>
-		<Setting name="Local filelist shown columns">1111</Setting>
-		<Setting name="Remote filelist shown columns">111111</Setting>
-		<Setting name="Local filelist column order">0,1,2,3</Setting>
-		<Setting name="Remote filelist column order">0,1,2,3,4,5</Setting>
-		<Setting name="Local filelist sortorder">0 0</Setting>
-		<Setting name="Remote filelist sortorder">0 0</Setting>
-		<Setting name="Highest shown overlay id">1</Setting>
-		<Setting name="SFTP keyfiles" platform="win">C:\Users\nvhai\Downloads\convert-server3.ppk</Setting>
-		<Setting name="Auto Ascii files">am|asp|bat|c|cfm|cgi|conf|cpp|css|dhtml|diz|h|hpp|htm|html|in|inc|java|js|jsp|lua|m4|mak|md5|nfo|nsi|pas|patch|php|phtml|pl|po|py|qmail|sh|sha1|sha256|sha512|shtml|sql|svg|tcl|tpl|txt|vbs|xhtml|xml|xrc</Setting>
-		<Setting name="Time Format">0</Setting>
-		<Setting name="Date Format">0</Setting>
-		<Setting name="Always use default editor">0</Setting>
-		<Setting name="Persistent Choices">1</Setting>
-		<Setting name="Local filelist colwidths">170 80 120 120</Setting>
-		<Setting name="Remote filelist colwidths">322 149 184 150 80 85</Setting>
-		<Setting name="Default editor" platform="win">2"C:\Program Files\Sublime Text 3\sublime_text.exe"</Setting>
-		<Setting name="Window position and size">1 373 208 1184 609 </Setting>
-		<Setting name="Search window size">0 -20 94 1370 500 </Setting>
-		<Setting name="File associations (v2)" platform="win">log C:\Windows\system32\NOTEPAD.EXE %f
-php "C:\Program Files\JetBrains\PhpStorm 2019.3.4\bin\phpstorm64.exe" %f
-phtml "C:\Program Files\Notepad++\notepad++.exe" %f
-</Setting>
-		<Setting name="Greeting version">3.54.1</Setting>
-		<Setting name="Greeting resources" />
-		<Setting name="Last automatic update version">3.54.1</Setting>
-		<Setting name="Onetime Dialogs">00011</Setting>
-		<Setting name="Queue column widths">180 60 388 80 60 150</Setting>
-		<Setting name="Site Manager position">0 507 143 890 714 </Setting>
-		<Setting name="Splitter positions (v2)">50 -158 412152269 138 144 500000000</Setting>
-		<Setting name="Tab data" sensitive="1">
+		<Setting name="Config Location">/home/hainv/.config/filezilla/</Setting>
+		<Setting name="Kiosk mode">0</Setting>
+		<Setting name="Disable update check">0</Setting>
+		<Setting name="Cache directory" />
+		<Setting name="Tab data">
 			<Tabs>
 				<Tab connected="1" selected="1">
-					<Host>13.54.160.201</Host>
+					<Host>13.238.84.158</Host>
 					<Port>22</Port>
 					<Protocol>1</Protocol>
 					<Type>0</Type>
-					<User>www</User>
-					<Keyfile>E:\Work\CDSD\Cd2_new_201.ppk</Keyfile>
+					<User>ubuntu</User>
+					<Keyfile>/home/hainv/Work/DCO/chemistoutlet.ppk</Keyfile>
 					<Logontype>5</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
-					<Name>Convert_New_201</Name>
-					<Site>0/Convert_New_201</Site>
-					<RemotePath>1 0 4 home 3 www 8 projects 15 adorn-cosmetics 3 var 6 report</RemotePath>
-					<LocalPath>F:\xampp\</LocalPath>
+					<Name>DCO_STAGING</Name>
+					<Site>0/DCO_STAGING</Site>
+					<RemotePath>1 0 3 var 3 www 13 chemistoutlet 3 pub 5 media 7 payment</RemotePath>
+					<LocalPath>/home/hainv/Projects/chemistoutlet/pub/media/amasty/payment/</LocalPath>
+				</Tab>
+				<Tab connected="1">
+					<Host>13.55.79.0</Host>
+					<Port>22</Port>
+					<Protocol>1</Protocol>
+					<Type>0</Type>
+					<User>ubuntu</User>
+					<Keyfile>/home/hainv/Work/DCO/chemistoutlet.ppk</Keyfile>
+					<Logontype>5</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>DCO_LIVE</Name>
+					<Site>0/DCO_LIVE</Site>
+					<RemotePath>1 0 3 var 3 www 13 chemistoutlet 3 pub 5 media 7 payment</RemotePath>
+					<LocalPath>/home/hainv/Projects/chemistoutlet/pub/media/amasty/</LocalPath>
 				</Tab>
 			</Tabs>
 		</Setting>
-		<Setting name="Last automatic update check">2021-07-27 07:59:23</Setting>
-		<Setting name="Update Check New Version" platform="win">nightly 2021-07-27 https://filezilla-project.org/nightlies/2021-07-27/win64/FileZilla_3_setup.exe 11900944 sha512 8704e7c0853a3c7789c3b3053c67037bd11358d18bda9262cdfabbd997229090ad746c69b970113f31226c0614ab1428cd30f56afb892a380a202f9be89a0ba4 sig:GYgmxWIK+xrfepktV5d5pKdi4s4XMZCgOdmqUtXLxbjkNN+rf0YqJjmrs2rjZDI9yiNOKNjN9M80de1FzpZDDA
-release 3.54.1 https://dl1.cdn.filezilla-project.org/FileZilla_3.54.1_win64-setup.exe 11390248 sha512 0a9110fa6552ce75025c96a5816295a0d18355deecbd5506b4e59c88f68c039486145c50e4c0273f5a4f6226d59932175a0e844c31f6b5d1cff83364357c1fc2 sig:TnHOIBYotrcJOzfhTLyG/9o0SeC59Act7HUmzoaxh/aK6BnR5/2kfbvybC9T4aKa/PklrXPtTRTrg5B0C6MXDg
-</Setting>
-		<Setting name="Sitemanager last selected" />
 	</Settings>
 	<Queue />
 </FileZilla3>
