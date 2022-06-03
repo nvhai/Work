@@ -1,0 +1,36 @@
+Nurse Next Door
+
+Domain: https://15786b7ab8.nxcli.net/
+Credential to access the site:
+n/a
+
+
+FTP
+Host: cloudhost-3526352.us-west-1.nxcli.net
+Username: nursenextdoor@15786b7ab8.nxcli.net
+Password: TampTorridBastedFirmer
+Home Directory:   /home/ae427da4/15786b7ab8.nxcli.net 
+
+
+SSH
+Host: ccbf226bbf.nxcli.net
+U: ae427da4_3
+P: PearlAlterTideVying
+Home Directory: /chroot/home/ae427da4/15786b7ab8.nxcli.net
+
+
+Database
+Host: localhost
+Database: ae427da4_repo
+username: ae427da4_repo
+password: Ts12vjB29Y413PJ3FQ
+
+
+Backend
+URL: https://b240660a85.nxcli.net/ae427da4_admin
+username: admin_nursenextdoor
+password: 10Nur3eajkEoN@xTd0or
+
+
+Repo
+https://bitbucket.org/dev_brain_and_code/nurse-next-door.git

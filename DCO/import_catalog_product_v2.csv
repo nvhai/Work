@@ -1,0 +1,48 @@
+sku,name,categories,attribute_set_code,price,qty,barcode,sale_price,brand,tax_class_name,product_online,description,short_description,weight,special_price,special_price_from_date,special_price_to_date,drug_schedule,product_type
+163593,La Roche-Posay Lrp Thermal Spring Water 100Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,11.95,,3337875647786,9.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+203048,La Roche-Posay Cicaplast Mask B5,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,12.95,,3337875599542,10.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48940,La Roche-Posay Effaclar Starter Kit,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,16.95,,9315341027717,14.49,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+211608,La Roche-Posay Cicaplast Hand Cream 100ML,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,21.95,,3337875766326,20.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+134328,La Roche-Posay Respectissime Waterproof Eye Make-Up Remover,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,23.95,,3433422401907,22.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48956,La Roche-Posay Lrp Thermal Spring Water 300Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,25.95,,3433422404403,21.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+110650,La Roche-Posay Serozinc 150Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,25.95,,3433422406728,21.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48969,La Roche-Posay Cleansing Micellar Foaming Water 150Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,27.95,,3337872413148,23.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48962,La Roche-Posay Effaclar Purifying Foaming Gel 200Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,27.95,,3337872411083,23.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+166900,La Roche-Posay Effaclar H Cleansing Cream,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,27.95,,3337875398961,23.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48949,La Roche-Posay Soothing Lotion 200Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,27.95,,3337872410321,23.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+149894,La Roche-Posay Toleriane Caring Face Wash 200Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,27.95,,3337875570404,23.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48947,La Roche-Posay Toleriane Dermo Cleanser 200Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,27.95,,3433422406599,23.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48941,La Roche-Posay Toleriane Softening Foaming Gel 150Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,27.95,,3433422405912,23.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+110645,La Roche-Posay Effaclar Mask,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,29.95,,3337875533317,25.49,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+166899,La Roche-Posay Effaclar H Soothing Moisturiser,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,31.95,,3337872410208,26.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+187545,La Roche-Posay Effaclar Micro-Peeling Gel Cleanser 200Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,31.95,,3337875708265,26.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48970,La Roche-Posay Toleriane Sensitive 40Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,31.95,,3337875578486,23.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48955,La Roche-Posay Toleriane Sensitive Riche 40Ml ,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,31.95,,3337875588348,26.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+197393,La Roche-Posay Effaclar Micellar Water Ultra 400Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,32.95,,3337872412516,27.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+197394,La Roche-Posay Micellar Water Sensitive & Reactive Skin 400Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,32.95,,3337872411595,27.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+140120,La Roche-Posay Effaclar Duo Plus 40Ml ,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,33.95,,3337875598071,28.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+110643,La Roche-Posay Effaclar Duo Plus Unifiant Light 40Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,33.95,,3337875518451,28.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+110644,La Roche-Posay Effaclar Duo Plus Unifiant Medium 40Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,33.95,,3337875518598,28.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+110646,La Roche-Posay Effaclar Mat 40Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,33.95,,3337872413025,28.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+163888,La Roche-Posay Effaclar K(+) Anti-Blackhead Care,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,33.95,,3337875613491,28.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+234564,La Roche-Posay Toleriane Dermallergo Eye Cream,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,35.95,,3337875757515,30.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48978,La Roche-Posay Uvidea Bb Cream Shade 01 Light 30Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,35.95,,3337872412875,30.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48984,La Roche-Posay Uvidea Bb Cream Shade 02 Medium  30Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,35.95,,3337872413551,30.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+110651,La Roche-Posay Uvidea Bb Cream Shade 03 Fair 30Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,35.95,,3337875482585,30.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48981,La Roche-Posay Lipikar Lait Body Milk 400ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,36.95,,3337875549615,31.49,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48963,La Roche-Posay Rosaliac Ar Intense 40Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,41.95,,3337872413032,35.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+234562,La Roche-Posay Toleriane Dermallergo Light Cream 40Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,42.95,,3337875788847,36.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+234563,La Roche-Posay Toleriane Dermallergo Fluid  40Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,42.95,,3337875757669,36.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+250793,La Roche-Posay Toleriane Dermallergo Night 40Ml ,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,42.95,,3337875800853,36.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48954,La Roche-Posay Pigmentclar Eye 15Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,43.95,,3337872414152,37.49,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+209744,La Roche-Posay Redermic C Eye 15Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,44.95,,3337872413735,37.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48974,La Roche-Posay Redermic R Eye 15Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,44.95,,3337872414039,37.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+187547,La Roche-Posay Toleriane Ultra Dermallergo Serum 20Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,55.95,,3337875693820,47.49,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+216324,La Roche-Posay Effaclar Ultra Concentrate Serum 30Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,59.95,,3337875722827,50.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+138004,La Roche-Posay Hyalu B5 Hyaluronic Moisturiser 40Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,59.95,,3337875583589,50.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+48944,La Roche-Posay Pigmentclar Serum 30Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,59.95,,3337872414107,50.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+167511,La Roche-Posay Redermic Retinol Moisturiser ,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,59.95,,3337875660549,50.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+113067,La Roche-Posay Redermic C 10 30Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,69.95,,3337875483377,59.49,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+138005,La Roche-Posay Hyalu B5 Hyaluronic Serum 30Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,71.95,,3337875583626,60.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+166538,La Roche-Posay Pure Vitamin C10 Serum 30Ml ,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,71.95,,3337875660570,60.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple
+187546,La Roche-Posay Retinol B3 Anti-Ageing Serum 30Ml,"Default Category/LA ROCHE-POSAY,Default Category/SKINCARE",Default,71.95,,3337875694469,60.99,LA ROCHE-POSAY,Taxable Goods,1,,,,,,,,simple

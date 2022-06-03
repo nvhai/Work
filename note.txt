@@ -1,0 +1,70 @@
+personal access token github
+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
+
+
+sudo -i gedit /etc/hosts
+
+sudo cp /etc/apache2/sites-available/magento23.local.conf /etc/apache2/sites-available/siddickens.local.conf
+sudo a2ensite siddickens.local.conf
+service apache2 reload
+
+switck php version
+sudo a2dismod php7.4
+sudo a2enmod php7.2
+sudo service apache2 restart
+
+sudo update-alternatives --set php /usr/bin/php7.2
+sudo update-alternatives --set phpize /usr/bin/phpize7.2
+sudo update-alternatives --set php-config /usr/bin/php-config7.2
+
+sudo a2dismod php7.2
+sudo a2enmod php7.4
+sudo service apache2 restart
+
+sudo update-alternatives --set php /usr/bin/php7.4
+sudo update-alternatives --set phpize /usr/bin/phpize7.4
+sudo update-alternatives --set php-config /usr/bin/php-config7.4
+
+
+
+git change permision file
+
+git config core.filemode false
+git config --global core.filemode false
+
+
+composer self-update --1
+
+
+
+
+
+style afterpay content
+document.querySelector('afterpay-placement').shadowRoot.querySelector('.afterpay-paragraph').setAttribute('style', 'font-size:14px');
+
+SSH key git.
+ssh-keygen -t rsa -b 4096 -C "email"
+add SSH key to ssh-agent
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/public_key
+
+
+
+git clone git://github.com/xdebug/xdebug.git
+git checkout xdebug_2_9
+phpize
+./configure --enable-xdebug
+sudo make install
+sudo service apache2 restart
+Bây giờ hãy thêm phần sau vào php.ini của bạn
+
+zend_extension=xdebug.so
+xdebug.remote_enable=1
+xdebug.remote_port=9000
+
+
+
+
+
+sudo apt -y install php7.4
+sudo apt-get install -y php7.4-cli php7.4-json php7.4-common php7.4-mysql php7.4-zip php7.4-gd php7.4-mbstring php7.4-curl php7.4-xml php7.4-bcmath

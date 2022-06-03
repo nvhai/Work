@@ -10,3 +10,21 @@ https://m2.directchemistoutlet.com.au/admin/
 
 emily
 ?vd64:*uV_CKW<cK
+
+account push code
+User name
+codecommit-at-012924156835
+Password
+DSa59gV6LFxRP4xxxQrFM28Tv1Xbp2a+/yBLPkycFq0=
+
+https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fap-southeast-2.console.aws.amazon.com%2Fec2%2Fv2%2Fhome%3Fregion%3Dap-southeast-2%26state%3DhashArgs%2523Instances%253A%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fec2&forceMobileApp=0&code_challenge=_OcxZv1Ppz7dZNa1rWn4v_OXvP0uAyUdPNJXT4-LAqM&code_challenge_method=SHA-256
+support@canda.net.au
+w@5s&8TPCz
+
+Instance State > reboot instance
+
+cd /var/www/
+
+C3AB9CXA3c9cJrWARBAtGGC0LfiF+dlXEaGfuTAdpllLJ5Hvg757WoDD1f09L6VzzQ7N47
+eway: 0AyIReZ7
+

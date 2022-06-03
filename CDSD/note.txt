@@ -1,0 +1,2 @@
+https://mailhog-dev02.convert.build/
+htaccess: convertdigital/cdigital19
